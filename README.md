@@ -2,7 +2,6 @@
 
 A stunning **real-time clock** with glass morphism design, smooth animations, and a soft glow effect. Built with pure HTML, CSS, and JavaScript.
 
-![Glassmorphic Clock Preview](#) *(Add screenshot/GIF here)*  
 
 ## 🌟 Features  
 - **Glassmorphism UI** (frosted glass background)  
